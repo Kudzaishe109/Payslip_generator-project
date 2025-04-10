@@ -61,6 +61,7 @@ Open your terminal in the project folder.
 
 Run the script:
 
+
 python payslip_generator.py
 📧 Email Details
 Subject: Your Payslip for This Month
